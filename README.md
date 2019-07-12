@@ -1,2 +1,2 @@
 # dappcount
-dAppcount are loaner accounts for blockchains running EOSIO
+A dAppcount is a loaner account for blockchains running EOSIO
