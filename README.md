@@ -23,6 +23,9 @@ No problem. We'll have an option for your dApps custom permissions. We are worki
 
 Do you have some spare EOS accounts you'd like to loan out? We could use them to share them back. We are working on having you keep the owner key and us use the active. If you'd like to just donate it right out... 🙏
 
+### Current account sponsors
+* [Sense Chat](https://www.sense.chat)
+
 ### Contributors
 * [Angel Jose](https://twitter.com/ajose01)
 * [Ross Geesman](https://twitter.com/rossgeesman)
